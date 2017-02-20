@@ -1,0 +1,27 @@
+{
+  "name": "logbase_streamsources",
+  "version": "1.0.0",
+  "description": "A collection of configurable streaming data sources for use as example data in X15",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppuleo/logbase_streamsources.git"
+  },
+  "keywords": [
+    "logbase"
+  ],
+  "author": "Phil Puleo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ppuleo/logbase_streamsources/issues"
+  },
+  "homepage": "https://github.com/ppuleo/logbase_streamsources#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "dotenv": "^4.0.0",
+    "twitter": "^1.7.0"
+  }
+}
